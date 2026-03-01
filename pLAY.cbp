@@ -34,7 +34,13 @@
 			<Add library="user32" />
 			<Add library="kernel32" />
 		</Linker>
+		<Unit filename="animated.cpp" />
+		<Unit filename="animated.h" />
+		<Unit filename="build.cpp" />
+		<Unit filename="build.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="windows.cpp" />
+		<Unit filename="windows.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

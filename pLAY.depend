@@ -1,0 +1,1481 @@
+# depslib dependency file v1.0
+1772369165 source:d:\molekyla\play\main.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+	<random>
+	<cmath>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics.hpp
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/StencilMode.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Window.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/System/Vector2.hpp>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\color.hpp
+	<cstdint>
+	<SFML/Graphics/Color.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\color.inl
+	<SFML/Graphics/Color.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\primitivetype.hpp
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<optional>
+	<SFML/Graphics/Rect.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\vector2.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Angle.hpp>
+	<SFML/System/Vector2.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\angle.hpp
+	<SFML/System/Angle.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\angle.inl
+	<SFML/System/Angle.hpp>
+	<cassert>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\vector2.inl
+	<SFML/System/Vector2.hpp>
+	<cassert>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\rect.inl
+	<SFML/Graphics/Rect.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CoordinateType.hpp>
+	<SFML/Graphics/StencilMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\coordinatetype.hpp
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\stencilmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<array>
+	<SFML/Graphics/Transform.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\transform.inl
+	<SFML/Graphics/Transform.hpp>
+	<array>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Angle.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<vector>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/System/Vector2.hpp>
+	<filesystem>
+	<memory>
+	<string>
+	<string_view>
+	<unordered_map>
+	<vector>
+	<cstddef>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/CoordinateType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Vector2.hpp>
+	<filesystem>
+	<cstddef>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<memory>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<filesystem>
+	<optional>
+	<string_view>
+	<vector>
+	<cstddef>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/System/Vector2.hpp>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/CoordinateType.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/StencilMode.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/System/Vector2.hpp>
+	<array>
+	<cstddef>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Angle.hpp>
+	<SFML/System/Vector2.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/Vector2.hpp>
+	<memory>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowEnums.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/System/Vector2.hpp>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<vector>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/WindowBase.hpp>
+	<SFML/Window/WindowEnums.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Time.hpp>
+	<memory>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\windowbase.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/Vulkan.hpp>
+	<SFML/Window/WindowEnums.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Vector2.hpp>
+	<memory>
+	<optional>
+	<cstdint>
+	<SFML/Window/WindowBase.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\vulkan.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\windowenums.hpp
+
+1760271072 c:\msys64\mingw64\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\time.hpp
+	<chrono>
+	<cstdint>
+	<SFML/System/Time.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\time.inl
+	<SFML/System/Time.hpp>
+	<ratio>
+	<cassert>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\windowbase.inl
+	<SFML/Window/Event.hpp>
+	<SFML/Window/WindowBase.hpp>
+	<type_traits>
+	<utility>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\event.hpp
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/System/Vector2.hpp>
+	<type_traits>
+	<variant>
+	<SFML/Window/Event.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<cstddef>
+	<cstdint>
+	<SFML/System/String.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<array>
+	<locale>
+	<cstdint>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\utf.inl
+	<SFML/System/Utf.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\string.inl
+	<SFML/System/String.hpp>
+	<iterator>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\vector3.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Vector3.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\vector3.inl
+	<SFML/System/Vector3.hpp>
+	<cassert>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\event.inl
+	<SFML/Window/Event.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<chrono>
+	<ratio>
+	<type_traits>
+	<SFML/System/SuspendAwareClock.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\suspendawareclock.hpp
+	<SFML/System/Export.hpp>
+	<chrono>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<filesystem>
+	<string>
+	<string_view>
+	<unordered_map>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\glsl.hpp
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<cstddef>
+	<SFML/Graphics/Glsl.inl>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\glsl.inl
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<array>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<array>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+	<cstddef>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Window/GlResource.hpp>
+	<cstddef>
+
+1760271072 c:\msys64\mingw64\include\sfml\window.hpp
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowEnums.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/System.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Vector2.hpp>
+	<memory>
+	<string_view>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<memory>
+	<optional>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Angle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/Exception.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<iosfwd>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\exception.hpp
+	<SFML/System/Export.hpp>
+	<stdexcept>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<filesystem>
+	<memory>
+	<cstdint>
+	<cstdio>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<optional>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<cstddef>
+	<cstdint>
+
+1760271072 c:\msys64\mingw64\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+
+1766178511 c:\msys64\mingw64\include\windows.h
+	<_mingw.h>
+	<sdkddkver.h>
+	<winresrc.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<virtdisk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<stralign.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+1766178511 c:\msys64\mingw64\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_ddk.h"
+
+1766178511 c:\msys64\mingw64\include\_mingw_mac.h
+
+1766178511 c:\msys64\mingw64\include\_mingw_secapi.h
+
+1766178511 c:\msys64\mingw64\include\_cygwin.h
+	<stddef.h>
+
+1766178511 c:\msys64\mingw64\include\stddef.h
+	<crtdefs.h>
+
+1766178511 c:\msys64\mingw64\include\crtdefs.h
+	<corecrt.h>
+
+1766178511 c:\msys64\mingw64\include\corecrt.h
+	<_mingw.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\winapifamily.h
+
+1766178511 c:\msys64\mingw64\include\vadefs.h
+	<_mingw.h>
+
+1766178511 c:\msys64\mingw64\include\sdks\_mingw_ddk.h
+
+1766178511 c:\msys64\mingw64\include\sdkddkver.h
+
+1766178511 c:\msys64\mingw64\include\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+1766178511 c:\msys64\mingw64\include\winuser.rh
+
+1766178511 c:\msys64\mingw64\include\commctrl.rh
+
+1766178511 c:\msys64\mingw64\include\dde.rh
+
+1766178511 c:\msys64\mingw64\include\winnt.rh
+
+1766178511 c:\msys64\mingw64\include\dlgs.h
+
+1766178511 c:\msys64\mingw64\include\winver.h
+	<_mingw.h>
+	<_mingw_unicode.h>
+
+1766178511 c:\msys64\mingw64\include\_mingw_unicode.h
+
+1766178511 c:\msys64\mingw64\include\excpt.h
+	<crtdefs.h>
+
+1766178511 c:\msys64\mingw64\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1766178511 c:\msys64\mingw64\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1766178511 c:\msys64\mingw64\include\windef.h
+	<winapifamily.h>
+	<minwindef.h>
+	<winnt.h>
+
+1766178511 c:\msys64\mingw64\include\minwindef.h
+	<_mingw.h>
+	<winapifamily.h>
+	<specstrings.h>
+	<winnt.h>
+
+1766178511 c:\msys64\mingw64\include\specstrings.h
+	<sal.h>
+	<driverspecs.h>
+
+1766178511 c:\msys64\mingw64\include\sal.h
+	<concurrencysal.h>
+
+1766178511 c:\msys64\mingw64\include\concurrencysal.h
+
+1766178511 c:\msys64\mingw64\include\driverspecs.h
+	<specstrings.h>
+	<concurrencysal.h>
+
+1766178511 c:\msys64\mingw64\include\winnt.h
+	<_mingw_unicode.h>
+	<_mingw.h>
+	<ctype.h>
+	<excpt.h>
+	<winapifamily.h>
+	<apiset.h>
+	<specstrings.h>
+	<psdk_inc/intrin-impl.h>
+	<sdkddkver.h>
+	<basetsd.h>
+	<guiddef.h>
+	<x86intrin.h>
+	<emmintrin.h>
+	<emmintrin.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"pshpack2.h"
+	"poppack.h"
+	"pshpack2.h"
+	<pshpack2.h>
+	<poppack.h>
+	"poppack.h"
+	"pshpack8.h"
+	"poppack.h"
+	"poppack.h"
+	<string.h>
+	<pshpack8.h>
+	<poppack.h>
+	<ktmtypes.h>
+	"pshpack4.h"
+	"poppack.h"
+
+1766178511 c:\msys64\mingw64\include\ctype.h
+	<corecrt_wctype.h>
+
+1766178511 c:\msys64\mingw64\include\corecrt_wctype.h
+	<corecrt.h>
+
+1766178511 c:\msys64\mingw64\include\apiset.h
+	<_mingw.h>
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\intrin-impl.h
+	<intrin.h>
+	<psdk_inc/intrin-impl.h>
+
+1766178511 c:\msys64\mingw64\include\intrin.h
+	<crtdefs.h>
+	<setjmp.h>
+	<stddef.h>
+	<psdk_inc/intrin-impl.h>
+	<stdlib.h>
+	<errno.h>
+	<malloc.h>
+	<x86intrin.h>
+	<cpuid.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+
+1766178511 c:\msys64\mingw64\include\setjmp.h
+	<crtdefs.h>
+
+1766178511 c:\msys64\mingw64\include\stdlib.h
+	<corecrt.h>
+	<corecrt_wstdlib.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1766178511 c:\msys64\mingw64\include\corecrt_wstdlib.h
+	<corecrt.h>
+
+1766178511 c:\msys64\mingw64\include\limits.h
+	<crtdefs.h>
+
+1766178511 c:\msys64\mingw64\include\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1766178511 c:\msys64\mingw64\include\malloc.h
+	<crtdefs.h>
+	<mm_malloc.h>
+
+1766178511 c:\msys64\mingw64\include\errno.h
+	<crtdefs.h>
+
+1766178511 c:\msys64\mingw64\include\basetsd.h
+	<_mingw.h>
+
+1766178511 c:\msys64\mingw64\include\guiddef.h
+	<_mingw.h>
+	<string.h>
+
+1766178511 c:\msys64\mingw64\include\string.h
+	<crtdefs.h>
+	<sec_api/string_s.h>
+
+1766178511 c:\msys64\mingw64\include\sec_api\string_s.h
+	<string.h>
+
+1766178511 c:\msys64\mingw64\include\pshpack4.h
+
+1766178511 c:\msys64\mingw64\include\poppack.h
+
+1766178511 c:\msys64\mingw64\include\pshpack2.h
+
+1766178511 c:\msys64\mingw64\include\pshpack8.h
+
+1766178511 c:\msys64\mingw64\include\ktmtypes.h
+
+1766178511 c:\msys64\mingw64\include\winbase.h
+	<_mingw_unicode.h>
+	<apisetcconv.h>
+	<winapifamily.h>
+	<minwinbase.h>
+	<bemapiset.h>
+	<debugapi.h>
+	<errhandlingapi.h>
+	<fibersapi.h>
+	<fileapi.h>
+	<handleapi.h>
+	<heapapi.h>
+	<ioapiset.h>
+	<interlockedapi.h>
+	<jobapi.h>
+	<libloaderapi.h>
+	<memoryapi.h>
+	<namedpipeapi.h>
+	<namespaceapi.h>
+	<processenv.h>
+	<processthreadsapi.h>
+	<processtopologyapi.h>
+	<profileapi.h>
+	<realtimeapiset.h>
+	<securityappcontainer.h>
+	<securitybaseapi.h>
+	<synchapi.h>
+	<sysinfoapi.h>
+	<systemtopologyapi.h>
+	<threadpoolapiset.h>
+	<threadpoollegacyapiset.h>
+	<utilapiset.h>
+	<wow64apiset.h>
+	<psdk_inc/intrin-impl.h>
+	<winerror.h>
+	<timezoneapi.h>
+
+1766178511 c:\msys64\mingw64\include\apisetcconv.h
+
+1766178511 c:\msys64\mingw64\include\minwinbase.h
+
+1766178511 c:\msys64\mingw64\include\bemapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\debugapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\errhandlingapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\fibersapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\fileapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\handleapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\heapapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\ioapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\interlockedapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\jobapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\libloaderapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\memoryapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\namedpipeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\namespaceapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\processenv.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\processthreadsapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\processtopologyapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\profileapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\realtimeapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\securityappcontainer.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\securitybaseapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\synchapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\sysinfoapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\systemtopologyapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\threadpoolapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\threadpoollegacyapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\utilapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\wow64apiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\winerror.h
+	<fltwinerror.h>
+
+1766178511 c:\msys64\mingw64\include\fltwinerror.h
+
+1766178511 c:\msys64\mingw64\include\timezoneapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\wingdi.h
+	<winapifamily.h>
+	<_mingw_unicode.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\pshpack1.h
+
+1766178511 c:\msys64\mingw64\include\winuser.h
+	<winapifamily.h>
+	<_mingw_unicode.h>
+	<apisetcconv.h>
+	<_mingw.h>
+	<stdarg.h>
+	<guiddef.h>
+	<libloaderapi.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+
+1766178511 c:\msys64\mingw64\include\tvout.h
+	<guiddef.h>
+
+1766178511 c:\msys64\mingw64\include\winnls.h
+	<winapifamily.h>
+	<datetimeapi.h>
+	<libloaderapi.h>
+	<stringapiset.h>
+
+1766178511 c:\msys64\mingw64\include\datetimeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1766178511 c:\msys64\mingw64\include\stringapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<winnls.h>
+
+1766178511 c:\msys64\mingw64\include\wincon.h
+	<winapifamily.h>
+	<wincontypes.h>
+	<wingdi.h>
+	<consoleapi.h>
+	<consoleapi2.h>
+	<consoleapi3.h>
+
+1766178511 c:\msys64\mingw64\include\wincontypes.h
+	<minwindef.h>
+
+1766178511 c:\msys64\mingw64\include\consoleapi.h
+	<_mingw_unicode.h>
+	<apiset.h>
+	<apisetcconv.h>
+	<minwinbase.h>
+	<minwindef.h>
+	<wincontypes.h>
+
+1766178511 c:\msys64\mingw64\include\consoleapi2.h
+	<_mingw_unicode.h>
+	<apiset.h>
+	<apisetcconv.h>
+	<minwinbase.h>
+	<minwindef.h>
+	<wincontypes.h>
+	<windef.h>
+
+1766178511 c:\msys64\mingw64\include\consoleapi3.h
+	<_mingw_unicode.h>
+	<apiset.h>
+	<apisetcconv.h>
+	<minwinbase.h>
+	<minwindef.h>
+	<wincontypes.h>
+	<windef.h>
+	<wingdi.h>
+
+1766178511 c:\msys64\mingw64\include\winreg.h
+	<_mingw_unicode.h>
+	<winapifamily.h>
+	<reason.h>
+
+1766178511 c:\msys64\mingw64\include\reason.h
+
+1766178511 c:\msys64\mingw64\include\winnetwk.h
+	<winapifamily.h>
+	<_mingw_unicode.h>
+	<wnnc.h>
+
+1766178511 c:\msys64\mingw64\include\wnnc.h
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\virtdisk.h
+
+1766178511 c:\msys64\mingw64\include\cderr.h
+
+1766178511 c:\msys64\mingw64\include\dde.h
+	<windef.h>
+
+1766178511 c:\msys64\mingw64\include\ddeml.h
+	<_mingw_unicode.h>
+
+1766178511 c:\msys64\mingw64\include\lzexpand.h
+	<_mingw_unicode.h>
+
+1766178511 c:\msys64\mingw64\include\mmsystem.h
+	<winapifamily.h>
+	<mmsyscom.h>
+	<pshpack1.h>
+	<mciapi.h>
+	<mmiscapi.h>
+	<mmiscapi2.h>
+	<playsoundapi.h>
+	<mmeapi.h>
+	<timeapi.h>
+	<joystickapi.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\mmsyscom.h
+	<winapifamily.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\mciapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\mmiscapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\mmiscapi2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\playsoundapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\mmeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<nt.h>
+	<ntrtl.h>
+	<nturtl.h>
+	<windows.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\timeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\joystickapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1766178511 c:\msys64\mingw64\include\nb30.h
+
+1766178511 c:\msys64\mingw64\include\rpc.h
+	<_mingw.h>
+	<windows.h>
+	<basetsd.h>
+	<pshpack8.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<excpt.h>
+	<winerror.h>
+	<rpcasync.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\rpcdce.h
+	<_mingw_unicode.h>
+	<specstrings.h>
+	<guiddef.h>
+	<rpcdcep.h>
+
+1766178511 c:\msys64\mingw64\include\rpcdcep.h
+	<_mingw_unicode.h>
+
+1766178511 c:\msys64\mingw64\include\rpcnsi.h
+	<_mingw_unicode.h>
+
+1766178511 c:\msys64\mingw64\include\rpcnterr.h
+
+1766178511 c:\msys64\mingw64\include\rpcasync.h
+	<_mingw_unicode.h>
+	<pshpack8.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\shellapi.h
+	<winapifamily.h>
+	<_mingw_unicode.h>
+	<specstrings.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\winperf.h
+	<pshpack8.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\winsock.h
+	<windows.h>
+	<_timeval.h>
+	<_bsd_types.h>
+	<inaddr.h>
+	<psdk_inc/_socket_types.h>
+	<psdk_inc/_fd_types.h>
+	<psdk_inc/_ip_types.h>
+	<psdk_inc/_ip_mreq1.h>
+	<psdk_inc/_wsadata.h>
+	<psdk_inc/_xmitfile.h>
+	<psdk_inc/_wsa_errnos.h>
+
+1766178511 c:\msys64\mingw64\include\_timeval.h
+
+1766178511 c:\msys64\mingw64\include\_bsd_types.h
+	<_mingw.h>
+
+1766178511 c:\msys64\mingw64\include\inaddr.h
+	<_bsd_types.h>
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_socket_types.h
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_fd_types.h
+	<psdk_inc/_socket_types.h>
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_ip_types.h
+	<_bsd_types.h>
+	<inaddr.h>
+	<_timeval.h>
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_ip_mreq1.h
+	<inaddr.h>
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_wsadata.h
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_xmitfile.h
+
+1766178511 c:\msys64\mingw64\include\psdk_inc\_wsa_errnos.h
+
+1766178511 c:\msys64\mingw64\include\wincrypt.h
+	<_mingw.h>
+	<_mingw_unicode.h>
+	<guiddef.h>
+	<winapifamily.h>
+	<apisetcconv.h>
+	<bcrypt.h>
+	<ncrypt.h>
+	<dpapi.h>
+
+1766178511 c:\msys64\mingw64\include\bcrypt.h
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\ncrypt.h
+	<winapifamily.h>
+	<bcrypt.h>
+
+1766178511 c:\msys64\mingw64\include\dpapi.h
+
+1766178511 c:\msys64\mingw64\include\winefs.h
+
+1766178511 c:\msys64\mingw64\include\winscard.h
+	<_mingw_unicode.h>
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+
+1766178511 c:\msys64\mingw64\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<wtypesbase.h>
+
+1766178511 c:\msys64\mingw64\include\rpcndr.h
+	<pshpack8.h>
+	<basetsd.h>
+	<rpcnsip.h>
+	<rpcsal.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\rpcnsip.h
+
+1766178511 c:\msys64\mingw64\include\rpcsal.h
+	<specstrings.h>
+
+1766178511 c:\msys64\mingw64\include\ole2.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<winerror.h>
+	<objbase.h>
+	<oleauto.h>
+	<oleidl.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\objbase.h
+	<winapifamily.h>
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<combaseapi.h>
+	<objidl.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\combaseapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypesbase.h>
+	<unknwnbase.h>
+	<objidlbase.h>
+	<guiddef.h>
+	<cguid.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\wtypesbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<basetsd.h>
+	<guiddef.h>
+
+1766178511 c:\msys64\mingw64\include\unknwnbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<wtypesbase.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\objidlbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<unknwnbase.h>
+	<wtypesbase.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\cguid.h
+
+1766178511 c:\msys64\mingw64\include\objidl.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<unknwn.h>
+	<wtypes.h>
+	<winapifamily.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\unknwn.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<wtypes.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\urlmon.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<objidl.h>
+	<oleidl.h>
+	<servprov.h>
+	<msxml.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\oleidl.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<objidl.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\servprov.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<objidl.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\msxml.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<unknwn.h>
+	<wtypes.h>
+	<objidl.h>
+	<oaidl.h>
+
+1766178511 c:\msys64\mingw64\include\oaidl.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<objidl.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\propidl.h
+	<rpc.h>
+	<rpcndr.h>
+	<windows.h>
+	<ole2.h>
+	<wtypes.h>
+	<objidl.h>
+	<oaidl.h>
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\oleauto.h
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\winsmcrd.h
+	<_mingw_unicode.h>
+
+1766178511 c:\msys64\mingw64\include\scarderr.h
+
+1766178511 c:\msys64\mingw64\include\winspool.h
+	<_mingw_unicode.h>
+	<prsht.h>
+
+1766178511 c:\msys64\mingw64\include\prsht.h
+	<_mingw_unicode.h>
+	<pshpack8.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\ole.h
+	<winapifamily.h>
+
+1766178511 c:\msys64\mingw64\include\commdlg.h
+	<winapifamily.h>
+	<_mingw_unicode.h>
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1766178511 c:\msys64\mingw64\include\stralign.h
+	<sec_api/stralign_s.h>
+
+1766178511 c:\msys64\mingw64\include\sec_api\stralign_s.h
+	<stralign.h>
+
+1766178511 c:\msys64\mingw64\include\winsvc.h
+	<_mingw.h>
+	<_mingw_unicode.h>
+	<apisetcconv.h>
+
+1766178511 c:\msys64\mingw64\include\mcx.h
+
+1766178511 c:\msys64\mingw64\include\imm.h
+	<_mingw_unicode.h>
+
+1772378632 source:d:\trees\main.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+	<random>
+	<cmath>
+	<algorithm>
+	<sstream>
+
